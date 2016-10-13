@@ -1,6 +1,7 @@
 ### Well hello there!
 
 Paul was here. Zzzz
+Paul was here, too. Zzzz
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
